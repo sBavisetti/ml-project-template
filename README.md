@@ -1,2 +1,2 @@
 # project-templates
-A reusable template for creating modular Python projects focused on machine learning concepts, complete with test structure, virtual environment support, and ready-to-use project scaffolding.
+A collection of reusable project templates for Python, machine learning, and data science—designed to kickstart new projects with consistent structure and best practices.
