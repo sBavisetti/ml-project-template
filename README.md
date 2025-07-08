@@ -1,4 +1,4 @@
-# 🧰 Project Templates
+# 🧰 ML-Project-Template
 
 This repository contains reusable Python project templates designed for quickly starting new machine learning projects. Each template includes a standard structure with:
 
